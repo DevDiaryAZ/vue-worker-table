@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/vue-worker-table/'
-  }
+  publicPath: '/vue-worker-table/'
+}
